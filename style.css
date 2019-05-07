@@ -1,0 +1,71 @@
+*
+{
+    margin: 10s;
+    padding: 10;
+    align-items: auto;
+    
+}
+
+
+
+
+
+
+                        /*       Kontakt        */
+#contact
+{
+    background: #efefef;
+    padding-top: 40px;
+    padding-right: 200px;
+    padding-bottom: 40px;
+    color: #777;
+}
+
+#contact h1
+{
+    padding-left: 220px;
+}
+
+.contact-form
+{
+    padding-left: 0px;
+}
+.form-control
+{
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+::placeholder
+{
+    color: #999 !important;
+}
+
+.follow
+{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+}
+
+.contact-info .fa
+{
+    margin: 8px;
+    color: #007bff;
+    font-weight: bold;
+}
+
+
+                /*          footer nohac        */
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+
+.fa-info-circle
+{
+    margin: 3px;
+    color: darkorange;
+}
